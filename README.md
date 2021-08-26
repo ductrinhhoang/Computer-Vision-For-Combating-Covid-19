@@ -1,1 +1,3 @@
 # Computer-Vision-For-Combating-Covid-19
+
+Currently, the Covid-19 pandemic is becoming very complicated and seriously affecting the economy and society in every country in the world. In this chapter, we explore the solution of computer vision for controlling the Covid-19 pandemic situation. The given scenarios based on deep learning techniques are used to monitor the traffic of people and vehicles through the checkpoints to control the in-out flow in significant areas. In addition, we also need to pay attention to comply with the regulations on wearing masks and ensuring a safe distance in public places. From there, the proposed system will effectively support organizations to control the covid-19 pandemic

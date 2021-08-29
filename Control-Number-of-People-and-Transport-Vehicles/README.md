@@ -36,4 +36,4 @@ Select ROI:
 <img src="img/Select-ROI.PNG">
 
 Result:
-<img src="img/Process-Frame.PNG">
+<img src="img/Process-Frame.gif">
